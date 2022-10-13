@@ -1,5 +1,5 @@
 # DBSQLITE
-Java App DB-Connection, Statement
+## Java App DB-Connection, Statement
 
 
-Please change the Path for DB
+### Please change the Path for DB
